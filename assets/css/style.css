@@ -919,7 +919,7 @@ body {
   background-color: var(--coquelicot);
   color: var(--rich-black-fogra-29-1);
   font-size: 20px;
-  padding: 11px;
+  padding: 8px;
   border-radius: 50%;
   border: 2px solid var(--rich-black-fogra-29-1);
   visibility: hidden;
