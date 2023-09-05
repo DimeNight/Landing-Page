@@ -40,6 +40,11 @@
 
 ![WhatsApp Image 2023-09-06 at 1 12 46 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990)
 
+<p align="center">
+  <img width="549" height="1024" src="https://github.com/DimeNight/Landing-Page/assets/122911130/d655e9b7-5e5c-4f3d-a576-0e868de5345a">
+</p>
+
+
 
 ![WhatsApp Image 2023-09-06 at 1 11 02 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/d655e9b7-5e5c-4f3d-a576-0e868de5345a)
 
