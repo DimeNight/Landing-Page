@@ -21,6 +21,8 @@ Blog Section: The "Blog" section displays a list of blog posts with images, publ
 Contact Information: The footer contains contact information, including the gym's address, phone numbers, and email addresses.
 
 Social Media Links: Social media links are provided in the footer, allowing users to connect with the gym on various platforms.
+
+
 ![Screenshot 2023-09-06 005132](https://github.com/DimeNight/Landing-Page/assets/122911130/9dc351cc-946e-4239-92f6-8758f17484d6)
 ![Screenshot 2023-09-06 005055](https://github.com/DimeNight/Landing-Page/assets/122911130/c7ca27d3-2a44-409f-ae5b-c2fe2bbdc8ca)
 
