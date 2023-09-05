@@ -4,11 +4,11 @@
 
 Responsive Design: The website's responsive design ensures that it dynamically adjusts its layout and content to fit different screen sizes and devices. This feature provides an optimal viewing experience for users on smartphones, tablets, and desktop computers, enhancing accessibility and usability.
 
-**Navigation Menu**: The navigation menu is a user-friendly interface element that expands or collapses when users click the hamburger icon. This intuitive design makes it easy for visitors to explore different sections of the website, ensuring a smooth and efficient browsing experience.
+****Navigation Menu**** : The navigation menu is a user-friendly interface element that expands or collapses when users click the hamburger icon. This intuitive design makes it easy for visitors to explore different sections of the website, ensuring a smooth and efficient browsing experience.
 
-**Smooth Scrolling**: Smooth scrolling is a visually appealing effect that guides users from one section of the webpage to another when they click on navigation links. It adds a polished and professional touch to the site's overall user interface, improving user engagement.
+****Smooth Scrolling**** : Smooth scrolling is a visually appealing effect that guides users from one section of the webpage to another when they click on navigation links. It adds a polished and professional touch to the site's overall user interface, improving user engagement.
 
-**Hero Section** : The hero section, prominently placed at the top of the page, combines captivating visuals with a compelling call to action. It effectively communicates the gym's value proposition and encourages users to take action, such as signing up or exploring more about the services offered.
+****Hero Section****  : The hero section, prominently placed at the top of the page, combines captivating visuals with a compelling call to action. It effectively communicates the gym's value proposition and encourages users to take action, such as signing up or exploring more about the services offered.
 
 **About Section** : The "About Us" section provides users with detailed information about the fitness gym, its mission, and the credentials of its coach. This transparency helps build trust and credibility with potential customers, making them more likely to engage with the gym.
 
