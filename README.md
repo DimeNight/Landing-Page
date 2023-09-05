@@ -1,5 +1,7 @@
 # RESPONSIVE GYM LANDING PAGE
 
+## WEBSITE LINK :- https://dimenight.github.io/Landing-Page/
+
 Responsive Design: The project appears to be designed to work well on various screen sizes, making it accessible on both desktop and mobile devices.
 
 Navigation Menu: The website features a responsive navigation menu with a hamburger icon that expands into a full menu when clicked. It also closes when a menu item is selected.
