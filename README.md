@@ -22,6 +22,7 @@
 
 **Social Media Links** : Social media icons in the footer connect users to the gym's profiles on various social platforms. This feature promotes community engagement and allows users to stay updated with the gym's activities, events, and fitness tips through their preferred social media channels. It also fosters brand loyalty and connection.
 
+# Desktop View
 
 ![Screenshot 2023-09-06 005055](https://github.com/DimeNight/Landing-Page/assets/122911130/c7ca27d3-2a44-409f-ae5b-c2fe2bbdc8ca)
 
@@ -29,8 +30,12 @@
 
 ![Screenshot 2023-09-06 005119](https://github.com/DimeNight/Landing-Page/assets/122911130/59f4018b-5ded-49c6-8f37-023395977534) 
 
-![SE@](https://github.com/DimeNight/Landing-Page/assets/122911130/a3cc7541-56a5-4abc-9ddc-b1467378c0a3)
+# Mobile View
 
-![Su](https://github.com/DimeNight/Landing-Page/assets/122911130/e1b17f30-ff05-481c-8746-0c1672e08a98)
+![WhatsApp Image 2023-09-06 at 1 10 34 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/dd5114f1-035c-4282-ab91-57975152e728)
+
+
+![WhatsApp Image 2023-09-06 at 1 11 02 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/d655e9b7-5e5c-4f3d-a576-0e868de5345a)
+
 
 
