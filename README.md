@@ -24,7 +24,8 @@
 
 # <h2 align="center">**Desktop View**</h2>
 
-![Screenshot 2023-09-06 005055](https://github.com/DimeNight/Landing-Page/assets/122911130/c7ca27d3-2a44-409f-ae5b-c2fe2bbdc8ca)
+![Start](https://github.com/DimeNight/Landing-Page/assets/122911130/9302fde9-0249-4da5-823f-30bee6529814)
+
 
 ![Screenshot 2023-09-06 005119](https://github.com/DimeNight/Landing-Page/assets/122911130/59f4018b-5ded-49c6-8f37-023395977534) 
 
