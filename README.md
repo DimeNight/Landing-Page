@@ -4,7 +4,7 @@
 
 Responsive Design: The website's responsive design ensures that it dynamically adjusts its layout and content to fit different screen sizes and devices. This feature provides an optimal viewing experience for users on smartphones, tablets, and desktop computers, enhancing accessibility and usability.
 
-Navigation Menu: The navigation menu is a user-friendly interface element that expands or collapses when users click the hamburger icon. This intuitive design makes it easy for visitors to explore different sections of the website, ensuring a smooth and efficient browsing experience.
+# Navigation Menu: The navigation menu is a user-friendly interface element that expands or collapses when users click the hamburger icon. This intuitive design makes it easy for visitors to explore different sections of the website, ensuring a smooth and efficient browsing experience.
 
 Smooth Scrolling: Smooth scrolling is a visually appealing effect that guides users from one section of the webpage to another when they click on navigation links. It adds a polished and professional touch to the site's overall user interface, improving user engagement.
 
