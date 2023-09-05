@@ -34,7 +34,7 @@
 # Mobile View
 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990)">
+  <img width="460" height="300" src="![WhatsApp Image 2023-09-06 at 1 12 46 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990)">
 </p>
 
 
