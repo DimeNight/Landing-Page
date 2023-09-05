@@ -39,6 +39,7 @@
 <p align="centre">
     <img width ="274.5" height="512" src="https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990" hspace="10" >
     <img width ="274.5" height="512" src="https://github.com/DimeNight/Landing-Page/assets/122911130/1a3c3a08-ea1b-4bbc-8d52-79c8301a4b54" hspace="10" >
+     <img width ="274.5" height="512" src="https://github.com/DimeNight/Landing-Page/assets/122911130/81eb9125-33b3-4b89-806b-121c0a77198e" hspace="10" >
 </p>
 
 
