@@ -34,7 +34,7 @@
 # Mobile View
 
 <p align="center">
-![WhatsApp Image 2023-09-06 at 1 12 46 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990)
+<img width = "200" src="(https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990)">
 </p>
 ![WhatsApp Image 2023-09-06 at 1 12 46 AM](https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990)
 
