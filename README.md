@@ -34,8 +34,8 @@
 # Mobile View
 
 <p>
-    <img  src="https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990" hspace="10" >
-    <img src="https://github.com/DimeNight/Landing-Page/assets/122911130/d655e9b7-5e5c-4f3d-a576-0e868de5345a" hspace="10" >
+    <img width ="274.5" height="512" src="https://github.com/DimeNight/Landing-Page/assets/122911130/e920a9f6-a72f-49c4-af27-7656221af990" hspace="10" >
+    <img width ="274.5" height="512" src="https://github.com/DimeNight/Landing-Page/assets/122911130/d655e9b7-5e5c-4f3d-a576-0e868de5345a" hspace="10" >
 </p>
 
 <p align="center">
